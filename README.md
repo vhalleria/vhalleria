@@ -1,4 +1,4 @@
-### Hi there 👋
+(https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines= Vhalléria + Ribeiro + Pereira;I'm+17+years+old;I+from+Brasil,+SP;I+study+systems+development+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <!--
 **vhalleria/vhalleria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+💬 O aprendizado é contínuo
