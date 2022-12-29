@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **vhalleriarp@gmail.com**
 
-- 📄 Know about my experiences mathematics teacher of basic education in the State of Tocantins, making the career transition is a personal achievement.
+- 📄 I'm mathematics teacher of basic education in the State of Tocantins, making the career transition is a personal achievement.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
