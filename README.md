@@ -1,11 +1,11 @@
-<h1 align="left">Hi 👋, I'm Vhalléria Ribeiro 😄</h1> 
-<h3 align="center">I am in the process of career transition, consolidating myself as a Full-Stack developer at CubosAcademy, passionate about new technologies and admirer of landscapes 💬</h3>
+<h1 align="left"> Oiie 👋, Eu sou Vhalléria Ribeiro 😄</h1> 
+<h3 align="center">Estou em processo de transição de carreira, consolidando-me como desenvolvedor Full-Stack na CubosAcademy, sou apaixonada por novas tecnologias e admiradora de paisagens 💬</h3>
 
-- 📫 How to reach me **vhalleriarp@gmail.com**
+- 📫 Como chegar até mim vhalleriarp@gmail.com**
 
-- 📄 I'm mathematics teacher of basic education in the State of Tocantins, making the career transition is a personal achievement.
+- 📄 Sou professor de matemática da educação básica no Estado do Tocantins, fazer a transição de carreira é uma conquista pessoal.
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> Conecte-se comigo: </h3>
 <p align="left">
 <a href="https://linkedin.com/in/vhalleriaribeiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vhalleriaribeiro" height="30" width="40" /></a>
 <a href="https://instagram.com/vhalleria_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vhalleria_" height="30" width="40" /></a>
@@ -17,4 +17,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vhalleria&show_icons=true&locale=en&layout=compact" alt="vhalleria" /></p>
 
-<h3 align="center"> Learning is continuous 💬</h3>
+<h3 align="center"> A aprendizagem é contínua 💬</h3>
