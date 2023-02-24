@@ -2,6 +2,7 @@
 <h3 align="center">Estou em processo de transição de carreira, consolidando-me como desenvolvedor Full-Stack na CubosAcademy, sou apaixonada por novas tecnologias e admiradora de paisagens 💬</h3>
 
 - 📫 Como chegar até mim vhalleriarp@gmail.com**
+- LinkedIn: https://www.linkedin.com/in/vhalleriaribeiro/ 
 
 - 📄 Sou professor de matemática da educação básica no Estado do Tocantins, fazer a transição de carreira é uma conquista pessoal.
 
