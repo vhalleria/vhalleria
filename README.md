@@ -4,7 +4,7 @@
 - 📫 Como chegar até mim vhalleriarp@gmail.com**
 - LinkedIn: https://www.linkedin.com/in/vhalleriaribeiro/ 
 
-- 📄 Sou professor de matemática da educação básica no Estado do Tocantins, fazer a transição de carreira é uma conquista pessoal.
+- 📄 Sou professor de matemática no Estado do Tocantins, fazer a transição de carreira é a realização de um sonho.
 
 <h3 align="left"> Conecte-se comigo: </h3>
 <p align="left">
