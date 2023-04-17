@@ -1,10 +1,10 @@
 <h1 align="left"> Oiie 👋, Eu sou Vhalléria Ribeiro 😄</h1> 
 <h3 align="center">Estou em processo de transição de carreira, consolidando-me como desenvolvedor Full-Stack na CubosAcademy, sou apaixonada por novas tecnologias e admiradora de paisagens 💬</h3>
 
-- 📫 Como chegar até mim vhalleriarp@gmail.com**
+- 📫 Como chegar até mim vhalleriarp@gmail.com
 - LinkedIn: https://www.linkedin.com/in/vhalleriaribeiro/ 
 
-- 📄 Sou professor de matemática no Estado do Tocantins, fazer a transição de carreira é a realização de um sonho.
+- 📄De professor de matemática a professora tutora de TADS: Aceitar essa oportunidade no Programa de Interiorização Universitária e mergulhar no curso fullstack da Cubos para impulsionar minha transição de carreira!
 
 <h3 align="left"> Conecte-se comigo: </h3>
 <p align="left">
